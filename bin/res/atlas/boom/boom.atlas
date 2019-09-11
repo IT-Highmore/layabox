@@ -1,0 +1,399 @@
+{
+    "frames": {
+        "star_explosion01.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion02.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion03.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion04.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 279,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion05.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 372,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion06.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 87
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion07.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion08.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 261
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion09.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 348
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion10.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 87
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion11.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 87
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion12.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 279,
+                "y": 87
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion13.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 372,
+                "y": 87
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion14.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion15.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 261
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion16.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 348
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion17.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion18.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 279,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion19.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 372,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion20.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 261
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion21.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 348
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion22.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 279,
+                "y": 261
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "star_explosion23.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 372,
+                "y": 261
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "boom.png",
+        "prefix": "boom/"
+    }
+}

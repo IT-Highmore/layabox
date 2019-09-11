@@ -1,0 +1,69 @@
+{
+    "type": "Scene",
+    "props": {
+        "width": 550,
+        "height": 550
+    },
+    "compId": 2,
+    "child": [
+        {
+            "type": "Sprite",
+            "props": {
+                "y": 197,
+                "x": 133,
+                "texture": "lbx/pics/beijingxian.png"
+            },
+            "compId": 3
+        },
+        {
+            "type": "Sprite",
+            "props": {
+                "y": 93,
+                "x": 9,
+                "width": 70,
+                "texture": "lbx/pics/defenFont.png",
+                "height": 30
+            },
+            "compId": 4
+        },
+        {
+            "type": "Sprite",
+            "props": {
+                "y": 14,
+                "x": 9,
+                "width": 100,
+                "texture": "lbx/pics/highScoreLabel.png",
+                "height": 30
+            },
+            "compId": 5
+        },
+        {
+            "type": "Sprite",
+            "props": {
+                "y": 19,
+                "x": 407,
+                "width": 100,
+                "texture": "lbx/pics/startLabel.png",
+                "height": 50
+            },
+            "compId": 6
+        },
+        {
+            "type": "Sprite",
+            "props": {
+                "y": 93,
+                "x": 420,
+                "texture": "lbx/pics/backAr.png"
+            },
+            "compId": 7
+        }
+    ],
+    "loadList": [
+        "lbx/pics/beijingxian.png",
+        "lbx/pics/defenFont.png",
+        "lbx/pics/highScoreLabel.png",
+        "lbx/pics/startLabel.png",
+        "lbx/pics/backAr.png"
+    ],
+    "loadList3D": []
+}
